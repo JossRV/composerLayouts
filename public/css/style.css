@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.menu{
+    display: flex;
+    height: 60px;
+    width: 100%;
+    background: #11101d;
+    justify-content: center;
+    align-items: center;
+}
+.menu .nav-link{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+}
+.menu .nav-link a{
+    padding: 15px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+}
+.menu .nav-link a:hover{
+    border: #fff;
+    background: #fff;
+    border-radius: 50px;
+    color: #11101d;
+    text-decoration: none;
+}
+.container{
+    width: 90%;
+    max-width: 1000px;
+    display: flexbox;
+    padding: 20px;
+    justify-content: center;
+    margin: auto;
+}
+.container .title{
+    display: flex;
+    font-size: 80px;
+    padding: 10px;
+    justify-content: center;
+    text-align: center;
+}
+.container .subtitle{
+    display: flex;
+    padding: 10px;
+    font-size: 30px;
+    justify-content: center;
+    margin-bottom: 20px;
+    /* text-align: center; */
+}
+.container .definicion{
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.container .definicion p{
+    text-align: justify;
+    font-size: 20px;
+    padding: 10px;
+    width: 100%;
+}
+.container  img{
+    width: 100%;
+}*{
+    margin: 0;
+    padding: 0;
+}
+.menu{
+    display: flex;
+    height: 60px;
+    width: 100%;
+    background: #11101d;
+    justify-content: center;
+    align-items: center;
+}
+.menu .nav-link{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+}
+.menu .nav-link a{
+    padding: 15px;
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+}
+.menu .nav-link a:hover{
+    border: #fff;
+    background: #fff;
+    border-radius: 50px;
+    color: #11101d;
+    text-decoration: none;
+}
+.container{
+    width: 90%;
+    max-width: 1000px;
+    display: flexbox;
+    padding: 20px;
+    justify-content: center;
+    margin: auto;
+}
+.container .title{
+    display: flex;
+    font-size: 80px;
+    padding: 10px;
+    justify-content: center;
+    text-align: center;
+}
+.container .subtitle{
+    display: flex;
+    padding: 10px;
+    font-size: 30px;
+    justify-content: center;
+    margin-bottom: 20px;
+    /* text-align: center; */
+}
+.container .definicion{
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.container .definicion p{
+    text-align: justify;
+    font-size: 20px;
+    padding: 10px;
+    width: 100%;
+}
+.container  img{
+    width: 100%;
+}
